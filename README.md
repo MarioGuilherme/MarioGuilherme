@@ -9,7 +9,7 @@
   e aprender o paradigma da Orientação a Objeto (POO).
 </p>
 <p>
-  Atualmente pretendo focar na tecnologia C#, seja Web (ASP), Desktop (.NET Framework), mobile (Xamarim), Cloud (Azure) ou outras plataformas.
+  Atualmente pretendo focar na tecnologia C#, seja Web (ASP), Desktop (.NET Framework), Mobile (Xamarim), Cloud (Azure) ou outras plataformas.
 </p>
 <p>
   Busco sempre aprender cada dia coisas novas e aperfeiçoar meu conhecimento, seja elas, estar de acordo com as boas práticas de Design Patterns e Clean Code, melhorando
@@ -37,6 +37,6 @@
 <hr>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=5&theme=dracula">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme&show_icons=true&theme=dracula&include_all_commits=false&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=5&theme=tokyonight ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true">
 </div>
