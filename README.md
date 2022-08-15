@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) 👋👋
 
 <p>
-  Sou desenvolvedor Back-End, e estou no 3º Semestre de Análise e Desenvolvimento de Sistemas na Fatec de Lins - Professor Antonio Seabra
+  Sou desenvolvedor Back-End, e estou no 4º Semestre de Análise e Desenvolvimento de Sistemas na Fatec de Lins - Professor Antonio Seabra
 </p>
 <p>
   Inicie os estudos com a Linguagem PHP, a qual tive uma boa experiência, sendo ela, a responsável por eu ter aprendido e muito sobre a stack Back-End,
@@ -37,6 +37,6 @@
 <hr>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=5&theme=tokyonight ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=7&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true">
 </div>
