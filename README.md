@@ -12,9 +12,10 @@
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">&nbsp;
+  <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
-  <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp; 
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
+  <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
