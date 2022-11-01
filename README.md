@@ -31,6 +31,6 @@
 <hr>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=7&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=6&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true">
 </div>
