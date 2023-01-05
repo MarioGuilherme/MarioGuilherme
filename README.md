@@ -1,10 +1,10 @@
 ### Olá, seja bem vindo(a) 👋👋
 
 <p>
-  Sou desenvolvedor Mobile e Back-End, e estou no 4º Semestre de Análise e Desenvolvimento de Sistemas na Fatec de Lins - Professor Antonio Seabra.
+  Sou desenvolvedor Mobile e Back-End, e estou no 5º Semestre de Análise e Desenvolvimento de Sistemas na Fatec de Lins - Professor Antonio Seabra.
 </p>
 <p>
-  Atualmente estudo com grande foco nas tecnologia: C# , PHP, Flutter e iniciando na plataforma Azure.
+  Atualmente estudo com grande foco nas tecnologia: C# , PHP, Flutter.
 </p>
 <hr>
 <div style="display: inline_block" align="center">
