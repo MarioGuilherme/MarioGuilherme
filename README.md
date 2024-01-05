@@ -1,10 +1,7 @@
 ### Olá, seja bem vindo(a) 👋👋
 
 <p>
-  Sou desenvolvedor Mobile e Back-End, e estou no 6º Semestre de Análise e Desenvolvimento de Sistemas na Fatec de Lins - Professor Antonio Seabra.
-</p>
-<p>
-  Atualmente estudo com grande foco nas tecnologia: C# , PHP e Flutter.
+  Sou desenvolvedor FullStack (.NET & Flutter) formado em Análise e Desenvolvimento de Sistemas
 </p>
 <hr>
 <div style="display: inline_block" align="center">
