@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) 👋👋
 
 <p>
-  Sou desenvolvedor FullStack (.NET & Flutter) formado em Análise e Desenvolvimento de Sistemas
+  Sou desenvolvedor FullStack (.NET | React | Flutter) formado em Análise e Desenvolvimento de Sistemas
 </p>
 <hr>
 <div style="display: inline_block" align="center">
@@ -14,7 +14,6 @@
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-  <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
