@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) 👋👋
 
 <p>
-  Sou desenvolvedor FullStack (.NET | React | Flutter) formado em Análise e Desenvolvimento de Sistemas
+  Sou desenvolvedor FullStack (.NET | React) formado em Análise e Desenvolvimento de Sistemas
 </p>
 <hr>
 <div style="display: inline_block" align="center">
