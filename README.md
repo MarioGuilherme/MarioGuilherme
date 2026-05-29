@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo(a) 👋👋
 
 <p>
-  Sou desenvolvedor FullStack (.NET | React) formado em Análise e Desenvolvimento de Sistemas
+  Sou Desenvolvedor FullStack Pleno pós-graduado em Arquitetura de Sistemas .NET
 </p>
 <hr>
 <div style="display: inline_block" align="center">
@@ -22,11 +22,4 @@
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">&nbsp;
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
-
-<hr>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioGuilherme&layout=compact&langs_count=6&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioGuilherme&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true">
 </div>
